@@ -1,25 +1,26 @@
-# Riftbound 카드 부족 수량 계산기
+# RIFTBOUND Card Library and Collection
 
-## 실행
+Vite, React, and TypeScript application for browsing Riftbound cards, tracking owned quantities, and comparing pasted deck lists. Card printings and metadata are loaded from OpenRift; collection quantities and theme preferences are stored in browser localStorage.
 
-Node.js 20 이상과 pnpm이 필요합니다.
+## Run locally
+
+Requires Node.js 20+ and pnpm.
 
 ```sh
 pnpm install
 pnpm dev
 ```
 
-터미널에 표시되는 로컬 주소를 브라우저에서 엽니다.
+Open the local URL printed by Vite. The development and preview servers proxy `/api/openrift/*` to `https://openrift.app/api/v1/*`. The catalog request asks for both English and Korean printings. The browser-side catalog cache and proxy response cache use a one-hour window.
 
-## 빌드 및 테스트
+The legacy Riftcodex provider and proxy remain only to migrate saved collection quantities. On the first successful OpenRift load, old provider IDs are mapped by card code. Unmatched values remain in localStorage.
+
+## Build
 
 ```sh
 pnpm build
-pnpm test
 ```
 
-CSV와 TTS는 브라우저 내에서만 처리됩니다. 카드 코드는 영문 세트 접두사 2~4자와 세 자리 번호(`OGN-046`) 형식, TTS 토큰은 여기에 인쇄 번호가 붙은 형식(`OGN-046-1`)을 지원합니다.
+## Data and attribution
 
-## 검증 메모
-
-이 환경에서는 Vite와 Vitest가 사용하는 esbuild 프로세스가 샌드박스 파일 접근 오류로 시작하지 않아 빌드 및 테스트 결과를 확인하지 못했습니다. 다른 로컬 Node.js 환경에서 위 명령으로 다시 확인할 수 있습니다.
+OpenRift is a community project and is not affiliated with Riot Games. This application reads card data and image URLs from OpenRift; it does not bundle the catalog or download card images into the project. Check Riot Games and asset-provider policies before public redistribution.

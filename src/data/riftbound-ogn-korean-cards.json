@@ -1,0 +1,2137 @@
+{
+  "source": "https://decks.kr/cards/set/ogn",
+  "sourceTitle": "덱스 오리진 카드 목록",
+  "note": "덱스 페이지에서 확인된 한국어 OGN 카드/판본. 기본 298종 + 한국어 변형/프로모/쇼케이스/서명 판본.",
+  "entries": [
+    {
+      "code": "OGN-001",
+      "koreanName": "타오르는 화염용",
+      "englishName": "Blazing Scorcher",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-002",
+      "koreanName": "뻔뻔한 해적",
+      "englishName": "Brazen Buccaneer",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-003",
+      "koreanName": "화학공학 집행자",
+      "englishName": "Chemtech Enforcer",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-004",
+      "koreanName": "쪼개기",
+      "englishName": "Cleave",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-005",
+      "koreanName": "붕괴",
+      "englishName": "Disintegrate",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-006",
+      "koreanName": "와작와작 뻥",
+      "englishName": "Flame Chompers",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-007",
+      "koreanName": "분노 룬",
+      "englishName": "Fury Rune",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-008",
+      "koreanName": "신난다!",
+      "englishName": "Get Excited!",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-009",
+      "koreanName": "마법공학 광선",
+      "englishName": "Hextech Ray",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-010",
+      "koreanName": "군단 후위병",
+      "englishName": "Legion Rearguard",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-011",
+      "koreanName": "용암 이무기",
+      "englishName": "Magma Wurm",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-012",
+      "koreanName": "녹서스의 기대주",
+      "englishName": "Noxus Hopeful",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-013",
+      "koreanName": "뾰로통한 포로",
+      "englishName": "Pouty Poro",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-014",
+      "koreanName": "천공 분열",
+      "englishName": "Sky Splitter",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-015",
+      "koreanName": "파론 대위",
+      "englishName": "Captain Farron",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-016",
+      "koreanName": "위험한 듀오",
+      "englishName": "Dangerous Duo",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-017",
+      "koreanName": "강철 쇠뇌",
+      "englishName": "Iron Ballista",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-018",
+      "koreanName": "녹서스 파괴 공작원",
+      "englishName": "Noxus Saboteur",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-019",
+      "koreanName": "성난 혼령",
+      "englishName": "Raging Soul",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-020",
+      "koreanName": "고철장 챔피언",
+      "englishName": "Scrapyard Champion",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-021",
+      "koreanName": "태양 원판",
+      "englishName": "Sun Disc",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-022",
+      "koreanName": "발열 광선",
+      "englishName": "Thermo Beam",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-023",
+      "koreanName": "무허가 무기고",
+      "englishName": "Unlicensed Armory",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-024",
+      "koreanName": "공허추적자",
+      "englishName": "Void Seeker",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-025",
+      "koreanName": "무분별한 분노",
+      "englishName": "Blind Fury",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-026",
+      "koreanName": "브린히르 썬더송",
+      "englishName": "Brynhir Thundersong",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-027",
+      "koreanName": "다리우스, 트리파르",
+      "englishName": "Darius, Trifarian",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-028",
+      "koreanName": "드레이븐, 과시",
+      "englishName": "Draven, Showboat",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-029",
+      "koreanName": "유성",
+      "englishName": "Falling Star",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-030",
+      "koreanName": "징크스, 폭파광",
+      "englishName": "Jinx, Demolitionist",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-031",
+      "koreanName": "성난 화염용",
+      "englishName": "Raging Firebrand",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-032",
+      "koreanName": "레이븐본 고서",
+      "englishName": "Ravenborn Tome",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-033",
+      "koreanName": "갈취",
+      "englishName": "Shakedown",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-034",
+      "koreanName": "트린다미어, 야만전사",
+      "englishName": "Tryndamere, Barbarian",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-035",
+      "koreanName": "베인, 사냥꾼",
+      "englishName": "Vayne, Hunter",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-036",
+      "koreanName": "바이, 파괴",
+      "englishName": "Vi, Destructive",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-037",
+      "koreanName": "불멸의 불사조",
+      "englishName": "Immortal Phoenix",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-038",
+      "koreanName": "지옥불 카드레그린",
+      "englishName": "Kadregrin the Infernal",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-039",
+      "koreanName": "카이사, 생존자",
+      "englishName": "Kai'Sa, Survivor",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-040",
+      "koreanName": "분노의 문장",
+      "englishName": "Seal of Rage",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-041",
+      "koreanName": "볼리베어, 격노",
+      "englishName": "Volibear, Furious",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-042",
+      "koreanName": "평정 룬",
+      "englishName": "Calm Rune",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-043",
+      "koreanName": "매혹",
+      "englishName": "Charm",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-044",
+      "koreanName": "시계태엽 지킴이",
+      "englishName": "Clockwork Keeper",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-045",
+      "koreanName": "반항",
+      "englishName": "Defy",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-046",
+      "koreanName": "준비 태세",
+      "englishName": "En Garde",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-047",
+      "koreanName": "중심 잡기",
+      "englishName": "Find Your Center",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-048",
+      "koreanName": "명상",
+      "englishName": "Meditation",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-049",
+      "koreanName": "장난꾸러기 유령",
+      "englishName": "Playful Phantom",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-050",
+      "koreanName": "룬 감옥",
+      "englishName": "Rune Prison",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-051",
+      "koreanName": "솔라리 방패지기",
+      "englishName": "Solari Shieldbearer",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-052",
+      "koreanName": "불굴의 포로",
+      "englishName": "Stalwart Poro",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-053",
+      "koreanName": "단결된 의지",
+      "englishName": "Stand United",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-054",
+      "koreanName": "햇빛 수호자",
+      "englishName": "Sunlit Guardian",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-055",
+      "koreanName": "물의 주인",
+      "englishName": "Wielder of Water",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-056",
+      "koreanName": "적응형 기기",
+      "englishName": "Adaptatron",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-057",
+      "koreanName": "막기",
+      "englishName": "Block",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-058",
+      "koreanName": "규율",
+      "englishName": "Discipline",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-059",
+      "koreanName": "월식의 전령",
+      "englishName": "Eclipse Herald",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-060",
+      "koreanName": "예지의 가면",
+      "englishName": "Mask of Foresight",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-061",
+      "koreanName": "포로치기",
+      "englishName": "Poro Herder",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-062",
+      "koreanName": "지원",
+      "englishName": "Reinforce",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-063",
+      "koreanName": "의지의 결계",
+      "englishName": "Spirit's Refuge",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-064",
+      "koreanName": "바람 장막",
+      "englishName": "Wind Wall",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-065",
+      "koreanName": "오랜 연륜의 장로",
+      "englishName": "Wizened Elder",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-066",
+      "koreanName": "아리, 황홀",
+      "englishName": "Ahri, Alluring",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-067",
+      "koreanName": "블리츠크랭크, 무감정",
+      "englishName": "Blitzcrank, Impassive",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-068",
+      "koreanName": "케이틀린, 순찰",
+      "englishName": "Caitlyn, Patrolling",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-069",
+      "koreanName": "최후의 저항",
+      "englishName": "Last Stand",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-070",
+      "koreanName": "마력척결관 간수",
+      "englishName": "Mageseeker Warden",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-071",
+      "koreanName": "축제 경품",
+      "englishName": "Party Favors",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-072",
+      "koreanName": "솔라리 성지",
+      "englishName": "Solari Shrine",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-073",
+      "koreanName": "소나, 조화",
+      "englishName": "Sona, Harmonious",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-074",
+      "koreanName": "타릭, 수호자",
+      "englishName": "Taric, Protector",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-075",
+      "koreanName": "맛있는 요정단",
+      "englishName": "Tasty Faefolk",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-076",
+      "koreanName": "야스오, 회한",
+      "englishName": "Yasuo, Remorseful",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-077",
+      "koreanName": "존야의 모래시계",
+      "englishName": "Zhonya's Hourglass",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-078",
+      "koreanName": "리 신, 고행",
+      "englishName": "Lee Sin, Ascetic",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-079",
+      "koreanName": "레오나, 신봉자",
+      "englishName": "Leona, Zealot",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-080",
+      "koreanName": "신비한 전환",
+      "englishName": "Mystic Reversal",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-081",
+      "koreanName": "집중의 문장",
+      "englishName": "Seal of Focus",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-082",
+      "koreanName": "하얀불꽃 수호자",
+      "englishName": "Whiteflame Protector",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-083",
+      "koreanName": "과거의 조언",
+      "englishName": "Consult the Past",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-084",
+      "koreanName": "열정적인 수습생",
+      "englishName": "Eager Apprentice",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-085",
+      "koreanName": "혜성 낙하",
+      "englishName": "Falling Comet",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-086",
+      "koreanName": "보석 거신",
+      "englishName": "Jeweled Colossus",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-087",
+      "koreanName": "설교하는 요들",
+      "englishName": "Lecturing Yordle",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-088",
+      "koreanName": "메가 메크",
+      "englishName": "Mega-Mech",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-089",
+      "koreanName": "정신 룬",
+      "englishName": "Mind Rune",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-090",
+      "koreanName": "후회의 구슬",
+      "englishName": "Orb of Regret",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-091",
+      "koreanName": "정비 팀",
+      "englishName": "Pit Crew",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-092",
+      "koreanName": "역조 렉스",
+      "englishName": "Riptide Rex",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-093",
+      "koreanName": "연막탄",
+      "englishName": "Smoke Screen",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-094",
+      "koreanName": "정령 부름",
+      "englishName": "Sprite Call",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-095",
+      "koreanName": "마비",
+      "englishName": "Stupefy",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-096",
+      "koreanName": "감시하는 보초",
+      "englishName": "Watchful Sentry",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-097",
+      "koreanName": "솔방울탄 요정",
+      "englishName": "Blastcone Fae",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-098",
+      "koreanName": "에너지 전도체",
+      "englishName": "Energy Conduit",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-099",
+      "koreanName": "쓰레기 수집기",
+      "englishName": "Garbage Grabber",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-100",
+      "koreanName": "보석 공예 예언자",
+      "englishName": "Gemcraft Seer",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-101",
+      "koreanName": "버섯 주머니",
+      "englishName": "Mushroom Pouch",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-102",
+      "koreanName": "차원문 구출",
+      "englishName": "Portal Rescue",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-103",
+      "koreanName": "레이븐블룸 학생",
+      "englishName": "Ravenbloom Student",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-104",
+      "koreanName": "후퇴",
+      "englishName": "Retreat",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-105",
+      "koreanName": "특이점",
+      "englishName": "Singularity",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-106",
+      "koreanName": "정령 어머니",
+      "englishName": "Sprite Mother",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-107",
+      "koreanName": "열정 대원 에이바",
+      "englishName": "Ava Achiever",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-108",
+      "koreanName": "수렴 변이",
+      "englishName": "Convergent Mutation",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-109",
+      "koreanName": "문도 박사, 전문가",
+      "englishName": "Dr. Mundo, Expert",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-110",
+      "koreanName": "에코, 반복",
+      "englishName": "Ekko, Recurrent",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-111",
+      "koreanName": "하이머딩거, 발명가",
+      "englishName": "Heimerdinger, Inventor",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-112",
+      "koreanName": "카이사, 진화",
+      "englishName": "Kai'Sa, Evolutionary",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-113",
+      "koreanName": "말자하, 광신도",
+      "englishName": "Malzahar, Fanatic",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-114",
+      "koreanName": "진보의 날",
+      "englishName": "Progress Day",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-115",
+      "koreanName": "유망한 미래",
+      "englishName": "Promising Future",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-116",
+      "koreanName": "꼬리 천 개 주시자",
+      "englishName": "Thousand-Tailed Watcher",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-117",
+      "koreanName": "빅토르, 혁신가",
+      "englishName": "Viktor, Innovator",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-118",
+      "koreanName": "메아리의 망령",
+      "englishName": "Wraith of Echoes",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-119",
+      "koreanName": "아리, 호기심",
+      "englishName": "Ahri, Inquisitive",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-120",
+      "koreanName": "통찰의 문장",
+      "englishName": "Seal of Insight",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-121",
+      "koreanName": "티모, 전략가",
+      "englishName": "Teemo, Strategist",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-122",
+      "koreanName": "시간 왜곡",
+      "englishName": "Time Warp",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-123",
+      "koreanName": "통제되지 않은 힘",
+      "englishName": "Unchecked Power",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-124",
+      "koreanName": "투기장 술집",
+      "englishName": "Arena Bar",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-125",
+      "koreanName": "빌지워터 불량배",
+      "englishName": "Bilgewater Bully",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-126",
+      "koreanName": "신체 룬",
+      "englishName": "Body Rune",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-127",
+      "koreanName": "포탄 세례",
+      "englishName": "Cannon Barrage",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-128",
+      "koreanName": "도전",
+      "englishName": "Challenge",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-129",
+      "koreanName": "정면 승부",
+      "englishName": "Confront",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-130",
+      "koreanName": "명사수 해적",
+      "englishName": "Crackshot Corsair",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-131",
+      "koreanName": "모래 언덕 드래곤",
+      "englishName": "Dune Drake",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-132",
+      "koreanName": "일등항해사",
+      "englishName": "First Mate",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-133",
+      "koreanName": "칼날 돌풍",
+      "englishName": "Flurry of Blades",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-134",
+      "koreanName": "동원",
+      "englishName": "Mobilize",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-135",
+      "koreanName": "새끼 파카아",
+      "englishName": "Pakaa Cub",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-136",
+      "koreanName": "투기장 신참",
+      "englishName": "Pit Rookie",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-137",
+      "koreanName": "폭풍발톱 어사인",
+      "englishName": "Stormclaw Ursine",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-138",
+      "koreanName": "억겁의 카탈리스트",
+      "englishName": "Catalyst of Aeons",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-139",
+      "koreanName": "클라우드필드의 시트리아",
+      "englishName": "Cithria of Cloudfield",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-140",
+      "koreanName": "비늘의 전령",
+      "englishName": "Herald of Scales",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-141",
+      "koreanName": "킨코우 수도승",
+      "englishName": "Kinkou Monk",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-142",
+      "koreanName": "대지의 드래곤",
+      "englishName": "Mountain Drake",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-143",
+      "koreanName": "해적의 안식처",
+      "englishName": "Pirate's Haven",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-144",
+      "koreanName": "전리품",
+      "englishName": "Spoils of War",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-145",
+      "koreanName": "물러서지 않는 영혼",
+      "englishName": "Unyielding Spirit",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-146",
+      "koreanName": "쿵쾅",
+      "englishName": "Wallop",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-147",
+      "koreanName": "거친발톱 주술사",
+      "englishName": "Wildclaw Shaman",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-148",
+      "koreanName": "애니비아, 원시",
+      "englishName": "Anivia, Primal",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-149",
+      "koreanName": "육식성 덩굴",
+      "englishName": "Carnivorous Snapvine",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-150",
+      "koreanName": "크라켄 사냥꾼",
+      "englishName": "Kraken Hunter",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-151",
+      "koreanName": "리 신, 집중",
+      "englishName": "Lee Sin, Centered",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-152",
+      "koreanName": "안개폭포",
+      "englishName": "Mistfall",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-153",
+      "koreanName": "대담한 작전",
+      "englishName": "Overt Operation",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-154",
+      "koreanName": "원시의 힘",
+      "englishName": "Primal Strength",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-155",
+      "koreanName": "키아나, 승리자",
+      "englishName": "Qiyana, Victorious",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-156",
+      "koreanName": "파괴 공작",
+      "englishName": "Sabotage",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-157",
+      "koreanName": "우디르, 야인",
+      "englishName": "Udyr, Wildman",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-158",
+      "koreanName": "볼리베어, 위압",
+      "englishName": "Volibear, Imposing",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-159",
+      "koreanName": "워윅, 사냥꾼",
+      "englishName": "Warwick, Hunter",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-160",
+      "koreanName": "눈부신 오로라",
+      "englishName": "Dazzling Aurora",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-161",
+      "koreanName": "죽음꽃 포식자",
+      "englishName": "Deadbloom Predator",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-162",
+      "koreanName": "미스 포츈, 선장",
+      "englishName": "Miss Fortune, Captain",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-163",
+      "koreanName": "힘의 문장",
+      "englishName": "Seal of Strength",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-164",
+      "koreanName": "세트, 싸움꾼",
+      "englishName": "Sett, Brawler",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-165",
+      "koreanName": "묘지 관리인",
+      "englishName": "Cemetery Attendant",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-166",
+      "koreanName": "혼돈 룬",
+      "englishName": "Chaos Rune",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-167",
+      "koreanName": "불꽃 수도승",
+      "englishName": "Ember Monk",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-168",
+      "koreanName": "싸우거나 도망치거나",
+      "englishName": "Fight or Flight",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-169",
+      "koreanName": "돌풍",
+      "englishName": "Gust",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-170",
+      "koreanName": "소름끼치는 귀환",
+      "englishName": "Morbid Return",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-171",
+      "koreanName": "신비한 포로",
+      "englishName": "Mystic Poro",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-172",
+      "koreanName": "처벌",
+      "englishName": "Rebuke",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-173",
+      "koreanName": "바람을 타고",
+      "englishName": "Ride the Wind",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-174",
+      "koreanName": "사막 정찰꾼",
+      "englishName": "Sai Scout",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-175",
+      "koreanName": "조선소 잠복꾼",
+      "englishName": "Shipyard Skulker",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-176",
+      "koreanName": "교활한 갑판원",
+      "englishName": "Sneaky Deckhand",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-177",
+      "koreanName": "은밀한 추적자",
+      "englishName": "Stealthy Pursuer",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-178",
+      "koreanName": "잠입 요원",
+      "englishName": "Undercover Agent",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-179",
+      "koreanName": "허용 손실",
+      "englishName": "Acceptable Losses",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-180",
+      "koreanName": "바래지는 기억",
+      "englishName": "Fading Memories",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-181",
+      "koreanName": "불가사의한 꾸러미",
+      "englishName": "Pack of Wonders",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-182",
+      "koreanName": "고철 더미",
+      "englishName": "Scrapheap",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-183",
+      "koreanName": "속임수 덱",
+      "englishName": "Stacked Deck",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-184",
+      "koreanName": "사이렌호",
+      "englishName": "The Syren",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-185",
+      "koreanName": "행상인",
+      "englishName": "Traveling Merchant",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-186",
+      "koreanName": "보물 창고",
+      "englishName": "Treasure Trove",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-187",
+      "koreanName": "회오리바람",
+      "englishName": "Whirlwind",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-188",
+      "koreanName": "자운 문지기",
+      "englishName": "Zaunite Bouncer",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-189",
+      "koreanName": "케인, 해방",
+      "englishName": "Kayn, Unleashed",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-190",
+      "koreanName": "코그모, 부식",
+      "englishName": "Kog'Maw, Caustic",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-191",
+      "koreanName": "정신 나간 습격자",
+      "englishName": "Maddened Marauder",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-192",
+      "koreanName": "정신 분쇄자",
+      "englishName": "Mindsplitter",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-193",
+      "koreanName": "미스 포츈, 해적단",
+      "englishName": "Miss Fortune, Buccaneer",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-194",
+      "koreanName": "녹턴, 공포",
+      "englishName": "Nocturne, Horrifying",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-195",
+      "koreanName": "파괴자 라사",
+      "englishName": "Rhasa the Sunderer",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-196",
+      "koreanName": "영혼탐식자",
+      "englishName": "Soulgorger",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-197",
+      "koreanName": "티모, 정찰병",
+      "englishName": "Teemo, Scout",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-198",
+      "koreanName": "해로윙",
+      "englishName": "The Harrowing",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-199",
+      "koreanName": "파도전환자",
+      "englishName": "Tideturner",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-200",
+      "koreanName": "트위스티드 페이트, 도박꾼",
+      "englishName": "Twisted Fate, Gambler",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-201",
+      "koreanName": "시간선 뒤집기",
+      "englishName": "Invert Timelines",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-202",
+      "koreanName": "징크스, 반항아",
+      "englishName": "Jinx, Rebel",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-203",
+      "koreanName": "지배",
+      "englishName": "Possession",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-204",
+      "koreanName": "불화의 문장",
+      "englishName": "Seal of Discord",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-205",
+      "koreanName": "야스오, 바람을 타는 자",
+      "englishName": "Yasuo, Windrider",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-206",
+      "koreanName": "등에 등을 맞대고",
+      "englishName": "Back to Back",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-207",
+      "koreanName": "영광의 부름",
+      "englishName": "Call to Glory",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-208",
+      "koreanName": "잔인한 후원자",
+      "englishName": "Cruel Patron",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-209",
+      "koreanName": "약자 도륙",
+      "englishName": "Cull the Weak",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-210",
+      "koreanName": "대담한 포로",
+      "englishName": "Daring Poro",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-211",
+      "koreanName": "충직한 제작자",
+      "englishName": "Faithful Manufactor",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-212",
+      "koreanName": "미래의 대장간",
+      "englishName": "Forge of the Future",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-213",
+      "koreanName": "숨겨진 칼날",
+      "englishName": "Hidden Blade",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-214",
+      "koreanName": "질서 룬",
+      "englishName": "Order Rune",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-215",
+      "koreanName": "갑판장",
+      "englishName": "Petty Officer",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-216",
+      "koreanName": "높이 나는 정찰병",
+      "englishName": "Soaring Scout",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-217",
+      "koreanName": "영광을 좇는 트리파르 병사",
+      "englishName": "Trifarian Gloryseeker",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-218",
+      "koreanName": "선봉대 대장",
+      "englishName": "Vanguard Captain",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-219",
+      "koreanName": "선봉대 병장",
+      "englishName": "Vanguard Sergeant",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-220",
+      "koreanName": "안면 강타",
+      "englishName": "Facebreaker",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-221",
+      "koreanName": "제국의 법령",
+      "englishName": "Imperial Decree",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-222",
+      "koreanName": "녹서스 군악대",
+      "englishName": "Noxian Drummer",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-223",
+      "koreanName": "봉우리 수호자",
+      "englishName": "Peak Guardian",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-224",
+      "koreanName": "인양",
+      "englishName": "Salvage",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-225",
+      "koreanName": "솔라리 대장",
+      "englishName": "Solari Chief",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-226",
+      "koreanName": "유령 부인",
+      "englishName": "Spectral Matron",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-227",
+      "koreanName": "솔라리의 상징",
+      "englishName": "Symbol of the Solari",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-228",
+      "koreanName": "선봉대 투구",
+      "englishName": "Vanguard Helm",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-229",
+      "koreanName": "복수",
+      "englishName": "Vengeance",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-230",
+      "koreanName": "알버스 페로스",
+      "englishName": "Albus Ferros",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-231",
+      "koreanName": "사령관 레드로스",
+      "englishName": "Commander Ledros",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-232",
+      "koreanName": "피오라, 승리자",
+      "englishName": "Fiora, Victorious",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-233",
+      "koreanName": "웅장한 책략",
+      "englishName": "Grand Strategem",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-234",
+      "koreanName": "길들인 드래곤",
+      "englishName": "Harnessed Dragon",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-235",
+      "koreanName": "카르마, 정신 집중",
+      "englishName": "Karma, Channeler",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-236",
+      "koreanName": "카서스, 영원",
+      "englishName": "Karthus, Eternal",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-237",
+      "koreanName": "왕의 칙령",
+      "englishName": "King's Edict",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-238",
+      "koreanName": "레오나, 결연",
+      "englishName": "Leona, Determined",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-239",
+      "koreanName": "기계 복음",
+      "englishName": "Machine Evangel",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-240",
+      "koreanName": "세트, 두목",
+      "englishName": "Sett, Kingpin",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-241",
+      "koreanName": "쉔, 킨코우",
+      "englishName": "Shen, Kinkou",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-242",
+      "koreanName": "미끼 갈고리",
+      "englishName": "Baited Hook",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-243",
+      "koreanName": "다리우스, 처형자",
+      "englishName": "Darius, Executioner",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-244",
+      "koreanName": "신성한 심판",
+      "englishName": "Divine Judgment",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-245",
+      "koreanName": "단합의 문장",
+      "englishName": "Seal of Unity",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-246",
+      "koreanName": "빅토르, 지도자",
+      "englishName": "Viktor, Leader",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-247",
+      "koreanName": "공허의 딸",
+      "englishName": "Daughter of the Void",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-248",
+      "koreanName": "이케시아 폭우, 카이사",
+      "englishName": "Icathian Rain",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-249",
+      "koreanName": "무자비한 폭풍",
+      "englishName": "Relentless Storm",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-250",
+      "koreanName": "폭풍을 부르는 자, 볼리베어",
+      "englishName": "Stormbringer",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-251",
+      "koreanName": "난폭한 말괄량이",
+      "englishName": "Loose Cannon",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-252",
+      "koreanName": "초강력 초토화 로켓!, 징크스",
+      "englishName": "Super Mega Death Rocket!",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-253",
+      "koreanName": "녹서스의 실력자",
+      "englishName": "Hand of Noxus",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-254",
+      "koreanName": "녹서스의 단두대, 다리우스",
+      "englishName": "Noxian Guillotine",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-255",
+      "koreanName": "구미호",
+      "englishName": "Nine-Tailed Fox",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-256",
+      "koreanName": "여우불, 아리",
+      "englishName": "Fox-Fire",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-257",
+      "koreanName": "눈먼 수도승",
+      "englishName": "Blind Monk",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-258",
+      "koreanName": "용의 분노, 리 신",
+      "englishName": "Dragon's Rage",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-259",
+      "koreanName": "용서받지 못한 자",
+      "englishName": "Unforgiven",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-260",
+      "koreanName": "최후의 숨결, 야스오",
+      "englishName": "Last Breath",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-261",
+      "koreanName": "여명의 빛",
+      "englishName": "Radiant Dawn",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-262",
+      "koreanName": "천공의 검, 레오나",
+      "englishName": "Zenith Blade",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-263",
+      "koreanName": "날쌘 정찰병",
+      "englishName": "Swift Scout",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-264",
+      "koreanName": "유격 전투, 티모",
+      "englishName": "Guerilla Warfare",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-265",
+      "koreanName": "아케인의 전령관",
+      "englishName": "Herald of the Arcane",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-266",
+      "koreanName": "힘의 흡수, 빅토르",
+      "englishName": "Siphon Power",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-267",
+      "koreanName": "현상금 사냥꾼",
+      "englishName": "Bounty Hunter",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-268",
+      "koreanName": "쌍권총 난사, 미스 포츈",
+      "englishName": "Bullet Time",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-269",
+      "koreanName": "우두머리",
+      "englishName": "The Boss",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-270",
+      "koreanName": "대미 장식, 세트",
+      "englishName": "Showstopper",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-271",
+      "koreanName": "신병 (DE)",
+      "englishName": "Recruit (DE)",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-272",
+      "koreanName": "신병 (NX)",
+      "englishName": "Recruit (NX)",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-273",
+      "koreanName": "신병 (ZN)",
+      "englishName": "Recruit (ZN)",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-274",
+      "koreanName": "정령",
+      "englishName": "Sprite",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-275",
+      "koreanName": "단합의 제단",
+      "englishName": "Altar to Unity",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-276",
+      "koreanName": "수행자의 오르막",
+      "englishName": "Aspirant's Climb",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-277",
+      "koreanName": "뒷골목 술집",
+      "englishName": "Back-Alley Bar",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-278",
+      "koreanName": "밴들 나무",
+      "englishName": "Bandle Tree",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-279",
+      "koreanName": "요새화 진형",
+      "englishName": "Fortified Position",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-280",
+      "koreanName": "신의 버드나무 숲",
+      "englishName": "Grove of the God-Willow",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-281",
+      "koreanName": "신성한 무덤",
+      "englishName": "Hallowed Tomb",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-282",
+      "koreanName": "히라나 수도원",
+      "englishName": "Monastery of Hirana",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-283",
+      "koreanName": "나보리 투기장",
+      "englishName": "Navori Fighting Pit",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-284",
+      "koreanName": "힘의 오벨리스크",
+      "englishName": "Obelisk of Power",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-285",
+      "koreanName": "약탈자의 노",
+      "englishName": "Reaver's Row",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-286",
+      "koreanName": "검투사 투기장",
+      "englishName": "Reckoner's Arena",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-287",
+      "koreanName": "폭풍의 인장",
+      "englishName": "Sigil of the Storm",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-288",
+      "koreanName": "별 봉우리",
+      "englishName": "Startipped Peak",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-289",
+      "koreanName": "타곤의 봉우리",
+      "englishName": "Targon's Peak",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-290",
+      "koreanName": "투기장의 최고봉",
+      "englishName": "The Arena's Greatest",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-291",
+      "koreanName": "촛불 성소",
+      "englishName": "The Candlelit Sanctum",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-292",
+      "koreanName": "꿈꾸는 나무",
+      "englishName": "The Dreaming Tree",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-293",
+      "koreanName": "대광장",
+      "englishName": "The Grand Plaza",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-294",
+      "koreanName": "트리파르 주둔지",
+      "englishName": "Trifarian War Camp",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-295",
+      "koreanName": "썩은 아귀 둥지",
+      "englishName": "Vilemaw's Lair",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-296",
+      "koreanName": "공허의 문",
+      "englishName": "Void Gate",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-297",
+      "koreanName": "바람이 부는 언덕",
+      "englishName": "Windswept Hillock",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-298",
+      "koreanName": "자운 땅굴",
+      "englishName": "Zaun Warrens",
+      "variant": "normal"
+    },
+    {
+      "code": "OGN-007A",
+      "koreanName": "분노 룬",
+      "englishName": "Fury Rune",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-027A",
+      "koreanName": "다리우스, 트리파르",
+      "englishName": "Darius, Trifarian",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-030-P-KR",
+      "koreanName": "징크스, 폭파광",
+      "englishName": "Jinx, Demolitionist",
+      "variant": "korean-promo"
+    },
+    {
+      "code": "OGN-030A",
+      "koreanName": "징크스, 폭파광",
+      "englishName": "Jinx, Demolitionist",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-039A",
+      "koreanName": "카이사, 생존자",
+      "englishName": "Kai'Sa, Survivor",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-041A",
+      "koreanName": "볼리베어, 격노",
+      "englishName": "Volibear, Furious",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-042A",
+      "koreanName": "평정 룬",
+      "englishName": "Calm Rune",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-066A",
+      "koreanName": "아리, 황홀",
+      "englishName": "Ahri, Alluring",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-076A",
+      "koreanName": "야스오, 회한",
+      "englishName": "Yasuo, Remorseful",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-076B-P-KR",
+      "koreanName": "야스오, 회한",
+      "englishName": "Yasuo, Remorseful",
+      "variant": "korean-promo"
+    },
+    {
+      "code": "OGN-078A",
+      "koreanName": "리 신, 고행",
+      "englishName": "Lee Sin, Ascetic",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-079A",
+      "koreanName": "레오나, 신봉자",
+      "englishName": "Leona, Zealot",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-089A",
+      "koreanName": "정신 룬",
+      "englishName": "Mind Rune",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-112A",
+      "koreanName": "카이사, 진화",
+      "englishName": "Kai'Sa, Evolutionary",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-117A",
+      "koreanName": "빅토르, 혁신가",
+      "englishName": "Viktor, Innovator",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-119A",
+      "koreanName": "아리, 호기심",
+      "englishName": "Ahri, Inquisitive",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-121A",
+      "koreanName": "티모, 전략가",
+      "englishName": "Teemo, Strategist",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-126A",
+      "koreanName": "신체 룬",
+      "englishName": "Body Rune",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-151A",
+      "koreanName": "리 신, 집중",
+      "englishName": "Lee Sin, Centered",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-158A",
+      "koreanName": "볼리베어, 위압",
+      "englishName": "Volibear, Imposing",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-162A",
+      "koreanName": "미스 포츈, 선장",
+      "englishName": "Miss Fortune, Captain",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-164A",
+      "koreanName": "세트, 싸움꾼",
+      "englishName": "Sett, Brawler",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-166A",
+      "koreanName": "혼돈 룬",
+      "englishName": "Chaos Rune",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-193A",
+      "koreanName": "미스 포츈, 해적단",
+      "englishName": "Miss Fortune, Buccaneer",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-197A",
+      "koreanName": "티모, 정찰병",
+      "englishName": "Teemo, Scout",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-197B-P-KR",
+      "koreanName": "티모, 정찰병",
+      "englishName": "Teemo, Scout",
+      "variant": "korean-promo"
+    },
+    {
+      "code": "OGN-202A",
+      "koreanName": "징크스, 반항아",
+      "englishName": "Jinx, Rebel",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-205A",
+      "koreanName": "야스오, 바람을 타는 자",
+      "englishName": "Yasuo, Windrider",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-214A",
+      "koreanName": "질서 룬",
+      "englishName": "Order Rune",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-238A",
+      "koreanName": "레오나, 결연",
+      "englishName": "Leona, Determined",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-240A",
+      "koreanName": "세트, 두목",
+      "englishName": "Sett, Kingpin",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-243A",
+      "koreanName": "다리우스, 처형자",
+      "englishName": "Darius, Executioner",
+      "variant": "alternate-art"
+    },
+    {
+      "code": "OGN-299*",
+      "koreanName": "공허의 딸",
+      "englishName": "Daughter of the Void",
+      "variant": "signature"
+    },
+    {
+      "code": "OGN-299",
+      "koreanName": "공허의 딸",
+      "englishName": "Daughter of the Void",
+      "variant": "showcase"
+    },
+    {
+      "code": "OGN-300*",
+      "koreanName": "무자비한 폭풍",
+      "englishName": "Relentless Storm",
+      "variant": "signature"
+    },
+    {
+      "code": "OGN-300",
+      "koreanName": "무자비한 폭풍",
+      "englishName": "Relentless Storm",
+      "variant": "showcase"
+    },
+    {
+      "code": "OGN-301*",
+      "koreanName": "난폭한 말괄량이",
+      "englishName": "Loose Cannon",
+      "variant": "signature"
+    },
+    {
+      "code": "OGN-301",
+      "koreanName": "난폭한 말괄량이",
+      "englishName": "Loose Cannon",
+      "variant": "showcase"
+    },
+    {
+      "code": "OGN-302*",
+      "koreanName": "녹서스의 실력자",
+      "englishName": "Hand of Noxus",
+      "variant": "signature"
+    },
+    {
+      "code": "OGN-302",
+      "koreanName": "녹서스의 실력자",
+      "englishName": "Hand of Noxus",
+      "variant": "showcase"
+    },
+    {
+      "code": "OGN-303*",
+      "koreanName": "구미호",
+      "englishName": "Nine-Tailed Fox",
+      "variant": "signature"
+    },
+    {
+      "code": "OGN-303",
+      "koreanName": "구미호",
+      "englishName": "Nine-Tailed Fox",
+      "variant": "showcase"
+    },
+    {
+      "code": "OGN-303A-S-KR",
+      "koreanName": "아리, 구미호",
+      "englishName": "Ahri, Nine-Tailed Fox",
+      "variant": "korean-special-art"
+    },
+    {
+      "code": "OGN-304*",
+      "koreanName": "눈먼 수도승",
+      "englishName": "Blind Monk",
+      "variant": "signature"
+    },
+    {
+      "code": "OGN-304",
+      "koreanName": "눈먼 수도승",
+      "englishName": "Blind Monk",
+      "variant": "showcase"
+    },
+    {
+      "code": "OGN-305*",
+      "koreanName": "용서받지 못한 자",
+      "englishName": "Unforgiven",
+      "variant": "signature"
+    },
+    {
+      "code": "OGN-305",
+      "koreanName": "용서받지 못한 자",
+      "englishName": "Unforgiven",
+      "variant": "showcase"
+    },
+    {
+      "code": "OGN-306*",
+      "koreanName": "여명의 빛",
+      "englishName": "Radiant Dawn",
+      "variant": "signature"
+    },
+    {
+      "code": "OGN-306",
+      "koreanName": "여명의 빛",
+      "englishName": "Radiant Dawn",
+      "variant": "showcase"
+    },
+    {
+      "code": "OGN-307*",
+      "koreanName": "날쌘 정찰병",
+      "englishName": "Swift Scout",
+      "variant": "signature"
+    },
+    {
+      "code": "OGN-307",
+      "koreanName": "날쌘 정찰병",
+      "englishName": "Swift Scout",
+      "variant": "showcase"
+    },
+    {
+      "code": "OGN-308*",
+      "koreanName": "아케인의 전령관",
+      "englishName": "Herald of the Arcane",
+      "variant": "signature"
+    },
+    {
+      "code": "OGN-308",
+      "koreanName": "아케인의 전령관",
+      "englishName": "Herald of the Arcane",
+      "variant": "showcase"
+    },
+    {
+      "code": "OGN-309*",
+      "koreanName": "현상금 사냥꾼",
+      "englishName": "Bounty Hunter",
+      "variant": "signature"
+    },
+    {
+      "code": "OGN-309",
+      "koreanName": "현상금 사냥꾼",
+      "englishName": "Bounty Hunter",
+      "variant": "showcase"
+    },
+    {
+      "code": "OGN-310*",
+      "koreanName": "우두머리",
+      "englishName": "The Boss",
+      "variant": "signature"
+    },
+    {
+      "code": "OGN-310",
+      "koreanName": "우두머리",
+      "englishName": "The Boss",
+      "variant": "showcase"
+    }
+  ]
+}
