@@ -36,6 +36,8 @@ const openriftProxy: ProxyOptions = {
 };
 
 export default defineConfig({
+  // GitHub Pages serves the site from /<repo>/; local dev and preview stay at /.
+  base: process.env.GITHUB_PAGES ? '/riftbound-deck-checker/' : '/',
   plugins: [react()],
   server: { proxy: { '/api/riftcodex': riftcodexProxy, '/api/openrift': openriftProxy } },
   preview: { proxy: { '/api/riftcodex': riftcodexProxy, '/api/openrift': openriftProxy } },

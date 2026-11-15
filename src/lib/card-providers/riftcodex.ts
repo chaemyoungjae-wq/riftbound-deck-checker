@@ -1,7 +1,7 @@
 ﻿import type { Card, CardCatalog, CardSet, CatalogDiagnostics } from '../../types/card';
 
-// The UI talks to one local provider route; Vite relays its read-only calls to Riftcodex.
-const API_ROOT = '/api/riftcodex';
+// Dev relays through the Vite proxy; static builds call Riftcodex directly (CORS allowed).
+const API_ROOT = import.meta.env.DEV ? '/api/riftcodex' : 'https://api.riftcodex.com';
 const PAGE_SIZE = 100; // Riftcodex documents 100 as the maximum page size.
 const CACHE_TTL_MS = 10 * 60 * 1000;
 const REQUEST_TIMEOUT_MS = 12_000;

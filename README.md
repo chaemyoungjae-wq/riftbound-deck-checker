@@ -15,6 +15,10 @@ Open the local URL printed by Vite. The development and preview servers proxy `/
 
 The legacy Riftcodex provider and proxy remain only to migrate saved collection quantities. On the first successful OpenRift load, old provider IDs are mapped by card code. Unmatched values remain in localStorage.
 
+## Live site
+
+https://chaemyoungjae-wq.github.io/riftbound-deck-checker/ — deployed by `.github/workflows/deploy.yml` on every push to `main`. The static build calls the OpenRift and Riftcodex APIs directly (both allow cross-origin requests), so no proxy server is needed.
+
 ## Build
 
 ```sh

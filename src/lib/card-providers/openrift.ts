@@ -1,6 +1,9 @@
 import type { Card, CardCatalog, CardSet, CatalogDiagnostics } from '../../types/card';
 
-const API_ROUTE = '/api/openrift/catalog?langs=EN%2CKR';
+// Dev uses the Vite proxy; static builds call OpenRift directly (it sends Access-Control-Allow-Origin: *).
+const API_ROUTE = import.meta.env.DEV
+  ? '/api/openrift/catalog?langs=EN%2CKR'
+  : 'https://openrift.app/api/v1/catalog?langs=EN%2CKR';
 const CACHE_TTL_MS = 5 * 60 * 1000;
 const REQUEST_TIMEOUT_MS = 30_000;
 const MAX_ATTEMPTS = 2;
